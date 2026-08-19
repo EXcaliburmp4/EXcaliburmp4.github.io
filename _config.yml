@@ -1,5 +1,6 @@
 theme: minima
 title: gugugaga
 baseurl: ""
+url: "https://github.com/EXcaliburmp4/EXcaliburmp4.github.io.git"
 plugins:
     - jekyll-feed
