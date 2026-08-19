@@ -1,0 +1,4 @@
+theme: minima
+title: gugugaga
+plugins:
+  -jekyll-feed
