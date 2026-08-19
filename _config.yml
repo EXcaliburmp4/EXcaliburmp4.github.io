@@ -1,5 +1,6 @@
 theme: minima
 title: gugugaga
 baseurl: ""
+url: ""
 plugins:
     - jekyll-feed
